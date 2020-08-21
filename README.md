@@ -1,3 +1,4 @@
+Update By: kolive360
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
@@ -37,8 +38,6 @@ The variables included in this dataset are:
     measurement was taken
 
 
-
-
 The dataset is stored in a comma-separated-value (CSV) file and there
 are a total of 17,568 observations in this
 dataset.
@@ -71,7 +70,6 @@ repository state.
 
 NOTE: The GitHub repository also contains the dataset for the
 assignment so you do not have to download the data separately.
-
 
 
 ### Loading and preprocessing the data
